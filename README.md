@@ -2,7 +2,8 @@
 # output
 ![image](https://github.com/user-attachments/assets/5b16ee5b-8540-4430-ba70-56f665377b7b)
 
-
+# Description
+The weather app is a React-based application that fetches real-time weather data for a specific location using the Axios library to make API requests. It displays current weather conditions such as temperature, humidity, wind speed, and more. The app likely utilizes a public weather API (like OpenWeatherMap) to gather information. With a clean and responsive UI, the app allows users to enter a city name and get updated weather information instantly. It also features build and deployment scripts for GitHub Pages integration.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
